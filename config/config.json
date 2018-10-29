@@ -1,0 +1,19 @@
+{
+  "port": 1337,
+  "database": {
+    "uri": "mongodb://localhost:27017/dev"
+  },
+  "app": {
+    "serverURL": "http://192.168.0.125:1337/api",
+    "appId": "b61f5946-1af3-4e07-9986-9ffd1e36ae93",
+    "masterKey": "KlYddh2OdVycHuVBhXv2",
+    "appName": "Go.Data"
+  },
+  "users": [
+    {
+      "user": "admin@who.int",
+      "pass": "admin"
+    }
+  ],
+  "allowHttpAccess": true
+}
