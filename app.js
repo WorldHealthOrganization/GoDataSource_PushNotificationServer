@@ -10,7 +10,8 @@ const config = require('./config/config');
 const parseApi = new ParseServer({
     databaseURI: config.database.uri,
     appId: config.app.appId,
-    masterKey: config.app.masterKey
+    masterKey: config.app.masterKey,
+    push: config.push
 });
 
 // configure parse dashboard

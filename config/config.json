@@ -15,5 +15,18 @@
       "pass": "admin"
     }
   ],
-  "allowHttpAccess": true
+  "allowHttpAccess": true,
+  "push": {
+    "android": {
+      "senderId": "674826924884",
+      "apiKey": "AIzaSyBk3ARREFLke2Srem4OGT6lGtUuZm5xSQ4"
+    },
+    "ios": {
+      "pfx": "certs/WHO-TEST.p12",
+      "passphrase": "a",
+      "topic": "com.clarisoft.APNS-Test",
+      "bundleId": "",
+      "production": false
+    }
+  }
 }
