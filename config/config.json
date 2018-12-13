@@ -1,7 +1,7 @@
 {
   "port": 1337,
   "database": {
-    "uri": "mongodb://localhost:27017/dev"
+    "uri": "mongodb://localhost:27017/go-data-push-notifications"
   },
   "app": {
     "serverURL": "http://localhost:1337/api",
