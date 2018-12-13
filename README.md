@@ -1,5 +1,5 @@
 # Go.Data Push Notification Server
-This project was build using Express 4.x, Parse Dashboard 1.2, Parse Server 3.1 and node 8.x (latest LTS at the time of the development).
+This project was build using Express 4.x (https://expressjs.com/), Parse Dashboard 1.2 (https://github.com/parse-community/parse-dashboard), Parse Server 3.1 (https://github.com/parse-community/parse-server) and Node 8.x (latest LTS at the time of the development).
 
 ## Installation
 
