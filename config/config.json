@@ -22,7 +22,7 @@
       "apiKey": "AIzaSyBk3ARREFLke2Srem4OGT6lGtUuZm5xSQ4"
     },
     "ios": {
-      "pfx": "certs/cert.p12",
+      "pfx": "certs/APNSWHO.p12",
       "passphrase": "",
       "topic": "int.who.go-data",
       "bundleId": "",
