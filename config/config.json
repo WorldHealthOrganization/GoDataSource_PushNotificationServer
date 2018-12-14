@@ -1,10 +1,10 @@
 {
   "port": 1337,
   "database": {
-    "uri": "mongodb://localhost:27017/go-data-push-notifications"
+    "uri": "mongodb://172.31.47.246:27017/go-data-push-notifications"
   },
   "app": {
-    "serverURL": "http://localhost:1337/api",
+    "serverURL": "http://whocd.clarisoft.com:1337/api",
     "appId": "b61f5946-1af3-4e07-9986-9ffd1e36ae93",
     "masterKey": "KlYddh2OdVycHuVBhXv2",
     "appName": "Go.Data"
@@ -22,9 +22,9 @@
       "apiKey": "AIzaSyBk3ARREFLke2Srem4OGT6lGtUuZm5xSQ4"
     },
     "ios": {
-      "pfx": "certs/APNSWHO.p12",
-      "passphrase": "",
-      "topic": "int.who.go-data",
+      "pfx": "certs/WHO-TEST.p12",
+      "passphrase": "a",
+      "topic": "com.clarisoft.APNS-Test",
       "bundleId": "",
       "production": false
     }
