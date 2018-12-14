@@ -22,9 +22,9 @@
       "apiKey": "AIzaSyBk3ARREFLke2Srem4OGT6lGtUuZm5xSQ4"
     },
     "ios": {
-      "pfx": "certs/WHO-TEST.p12",
+      "pfx": "certs/WHO-APNS.p12",
       "passphrase": "a",
-      "topic": "com.clarisoft.APNS-Test",
+      "topic": "com.clarisoft.who",
       "bundleId": "",
       "production": false
     }
