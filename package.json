@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ClarisoftTechnologies/Go.Data-Push-Notifications-Server#readme",
   "dependencies": {
-    "express": "4.16.4",
+    "express": "4.17.3",
     "parse-dashboard": "1.2.0",
     "parse-server": "3.1.1"
   }
