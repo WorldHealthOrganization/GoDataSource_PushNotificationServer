@@ -22,7 +22,7 @@ Install latest Node 8.x (https://nodejs.org/dist) and MongoDB (https://www.mongo
 Copyright The GoDataSource_PushNotificationServer Contributors.
 
 ## Terms of Use and License Agreement
-GoDataSource_PushNotificationServer is available under the GNU General Public License Version 3.
+GoDataSource_PushNotificationServer is available under the [GNU General Public License Version 3](https://github.com/WorldHealthOrganization/godata/blob/master/LICENSE.txt).
 
 GoDataSource_PushNotificationServer also includes external libraries that are available under a variety of licenses.
 
